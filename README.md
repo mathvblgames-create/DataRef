@@ -8,7 +8,7 @@
     * [MC9W9](https://universe.roboflow.com/traffic-light-dataset-mc9w9/traffic-light-labelling).
     * [Moloko](https://universe.roboflow.com/moloko/traffic-light-cnlh5).
 
-## 2. Imagens de Cenários Reais e Falhas (Notícias)
+## 2. Imagens de Notícias
 
 | Arquivo | Crédito / Fotógrafo | Fonte Original |
 | :--- | :--- | :--- |
