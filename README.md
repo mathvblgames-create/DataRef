@@ -68,22 +68,4 @@
 | `img_029.jpg` | Vincent Yuan | [Unsplash Link](https://unsplash.com/pt-br/fotografias/um-semaforo-pendurado-sobre-uma-rua-cheia-de-transito-oHp1UtDzawo) |
 | `img_030.jpg` | Mihály Köles | [Unsplash Link](https://unsplash.com/pt-br/fotografias/um-semaforo-pendurado-em-um-fio-contra-um-ceu-azul-sJ9Mh1lgcdw) |
 
-## 4. Referências Acadêmicas (BibTeX)
 
-Abaixo estão as citações formais dos datasets e métodos utilizados como base.
-
-```bibtex
-@article{yang2022scrdet++,
-  title={Scrdet++: Detecting small, cluttered and rotated objects via instance-level feature denoising and rotation loss smoothing},
-  author={Yang, Xue and Yan, Junchi and Liao, Wenlong and Yang, Xiaokang and Tang, Jin and He, Tao},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
-  publisher={IEEE}
-}
-
-@inproceedings{BehrendtNovak2017ICRA,
-  title={A Deep Learning Approach to Traffic Lights: Detection, Tracking, and Classification},
-  author={Behrendt, Karsten and Novak, Libor},
-  booktitle={Robotics and Automation (ICRA), 2017 IEEE International Conference on},
-  organization={IEEE}
-}
